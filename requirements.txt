@@ -8,4 +8,4 @@ SQLAlchemy==1.0.13
 Werkzeug==0.11.9
 gevent
 gunicorn
-psychopg2
+psycopg2
